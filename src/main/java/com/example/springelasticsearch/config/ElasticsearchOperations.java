@@ -1,4 +1,4 @@
-package com.example.springelasticsearch;
+package com.example.springelasticsearch.config;
 
 import org.springframework.data.elasticsearch.core.DocumentOperations;
 import org.springframework.data.elasticsearch.core.SearchOperations;
